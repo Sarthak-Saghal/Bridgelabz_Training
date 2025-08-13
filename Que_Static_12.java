@@ -11,7 +11,7 @@
 
 }
 
-public class Staticvariable {
+public class Que_Static_12 {
     public static void main(String[] args) {
         Que_12 obj1=new Que_12();
         Que_12 obj2=new Que_12();
