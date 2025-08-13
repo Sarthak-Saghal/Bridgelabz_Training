@@ -1,10 +1,10 @@
-public class QueCar_11 {
+public class Que_Car_11 {
     
     String brand;
     int speed;
     static int wheels=4;
 
-    QueCar_11(String brand , int speed){
+    Que_Car_11(String brand , int speed){
         this.brand=brand;
         this.speed=speed;
     }
@@ -14,9 +14,9 @@ public class QueCar_11 {
     }
         
     public static void main(String[] args) {
-        QueCar_11 car1=new QueCar_11("Toyota", 180);
-        QueCar_11 car2=new QueCar_11("BMW", 240);
-        QueCar_11 car3=new QueCar_11("Honda", 160);
+        Que_Car_11 car1=new Que_Car_11("Toyota", 180);
+        Que_Car_11 car2=new Que_Car_11("BMW", 240);
+        Que_Car_11 car3=new Que_Car_11("Honda", 160);
         
 
         System.out.println(car1);
